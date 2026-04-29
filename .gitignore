@@ -208,3 +208,5 @@ __marimo__/
 
 # YOLO training outputs
 runs/detect/**/weights/
+.claude
+*.pt
